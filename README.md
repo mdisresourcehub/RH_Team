@@ -1,2 +1,2 @@
 # RH_Team
-Resource Hub Team documents
+Work-related documents
